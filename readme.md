@@ -46,7 +46,7 @@ npm install wepy-cli -g
 #### 2. 克隆本仓库
 
 ```bash
-git clone git@github.com:mohuishou/scuplus-wechat.git
+git clone git@github.com:wuuuudle/scuplus-wechat.git
 ```
 
 #### 3. 安装依赖
